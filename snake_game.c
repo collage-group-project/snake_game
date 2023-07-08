@@ -2,7 +2,7 @@
 #include <conio.h>
 #include <windows.h>
 
-#define WIDTH 20
+#define WIDTH 40
 #define HEIGHT 20
 #define UP 1
 #define DOWN 2
